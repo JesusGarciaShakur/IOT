@@ -1,0 +1,12 @@
+se necesita descargar la la libreria mas reciente del siguiente link
+
+https://www.arduinolibraries.info/libraries/firebase-esp32-client
+
+
+luego ir a arduino ir a sketch
+
+luego include library 
+
+depues add .zip libray buscar en donde se descargo la libreria y aceptar
+
+esperar y pegar codigo 
