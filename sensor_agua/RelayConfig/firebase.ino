@@ -6,9 +6,9 @@
 
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
-#define API_KEY "AIzaSyC_9W1GIvU0ZDYpy4_WDD61jWcKnf7B6EQ"
-#define DATABASE_URL "iot-fire-7e935-default-rtdb.firebaseio.com"
-#define USER_EMAIL "correo@gmail.com"
+#define API_KEY "AIzaSyCGeO9X01brIfhPZphJ2NupsBHHqZL14ps"
+#define DATABASE_URL "newiot-632c1-default-rtdb.firebaseio.com"
+#define USER_EMAIL "correo@gmail.com" // aqui se tendra que cambiar el correo segun la info de la app Movil
 #define USER_PASSWORD "12345678"
 
 #define TRIG_PIN 23 // ESP32 pin GPIO23 connected to Ultrasonic Sensor's TRIG pin
